@@ -190,7 +190,7 @@ st.markdown("""
 # --- 4. GIAO DIỆN CHÍNH ---
 st.markdown("""
 <div class="main-header">
-    <h1>📘 TRỢ LÝ SOẠN KẾ HOẠCH BÀI GẠY TỰ ĐỘNG (NLS)</h1>
+    <h1>📘 TRỢ LÝ SOẠN KẾ HOẠCH BÀI DẠY TỰ ĐỘNG (NLS)</h1>
     <p>Tác giả: Nguyễn Đức Hùng - Trường PTDTBT Tiểu học Nấm Dẩn - ĐT: 0364196097</p>
 </div>
 """, unsafe_allow_html=True)
